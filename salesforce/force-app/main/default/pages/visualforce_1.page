@@ -1,0 +1,8 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  This is your new Page: visualforce_1.
+  <p>This page created by the url below:</p>
+  <a>https://brainstation237-dev-ed--c.develop.vf.force.com/apex/visualforce_1</a>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
